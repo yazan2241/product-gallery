@@ -1,7 +1,6 @@
 # product-gallery
-web page template to display your product online for selling
 
-------------------------------------------------
+web page template to display your product online for selling
 
 # Information
 
@@ -13,15 +12,11 @@ you can clone it or take it
 
 it is all yours
 
-------------------------------------------------
 # Link
 
 check the site from this link
 
 https://slagkryssaren.000webhostapp.com/index.html
-
-
-------------------------------------------------
 
 # created using
 
