@@ -17,10 +17,3 @@ it is all yours
 check the site from this link
 
 https://slagkryssaren.000webhostapp.com/index.html
-
-# created using
-
-HTML
-CSS
-Java Script
-Bootstrab
